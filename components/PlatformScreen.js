@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View, Platform} from 'react-native';
 
-//PlatoformScreen tager navigation med som argument
+//PlatformScreen tager navigation med som argument
 function PlatformScreen() {
 
     //I return() benyttes både inline og lokal styling.
